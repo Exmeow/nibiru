@@ -2,7 +2,7 @@
 
 ## zuogeren派
 
-尼比鲁人数最众多的派系，领导者是zuogeren。
+尼比鲁人数最众多的派系。
 
 成员：zuogeren、elon2008、Java_man、AlanLiu09、aza0、ylyn、end、last
 
@@ -16,7 +16,7 @@
 
 ## hghgjk派
 
-尼比鲁势力第二大的派系，领导者是hghgjk。
+尼比鲁势力第二大的派系。
 
 成员：hghgjk、langmao07
 
