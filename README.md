@@ -4,4 +4,4 @@
 
 ## 导航
 
-[服务器阵营](factions.md)
+[服务器阵营](factions)
