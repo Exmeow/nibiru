@@ -28,7 +28,9 @@ hghgjk精通生电科技，并且经常建造与启动巨大规模的生电机�
 
 ## BANIJJ派
 
-成员：BANIJJ、nightmare05
+成员：BANIJJ、nightmare05、MuneRaul
+
+MuneRaul在基地被圈后一段时间投奔了BANIJJ。
 
 基地影像：
 
