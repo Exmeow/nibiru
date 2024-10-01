@@ -20,9 +20,19 @@
 
 成员：hghgjk、langmao07
 
+hghgjk精通生电科技，并且经常建造与启动巨大规模的生电机器，导致服务器TPS严重下降。
+
 基地影像：
 
 ![362D31D72B1FA940E902A2E58EC1DB4A.png](https://s2.loli.net/2024/10/01/jta7GR3yMv61PIs.png)
+
+## BANIJJ派
+
+成员：BANIJJ、nightmare05
+
+基地影像：
+
+![2024-10-01 22_00_52-Clipboard.png](https://s2.loli.net/2024/10/01/bw5Atnak3RpUY1j.png)
 
 ## xiaoUI派
 
@@ -35,3 +45,23 @@
 xiaoUI被zuogeren派列为头号追杀目标，并且已经被zuogeren、Java_man击杀了很多遍，但是每次都能东山再起。
 
 hite404因为后期没有破坏行为，没有被继续追杀。
+
+## MuneRaul派（已解散）
+
+成员：MuneRaul、BANIJJ
+
+2024年9月，MuneRaul的基地因为没有圈地，被xiaoUI圈为己有。MuneRaul派遭受重大损失，随即解散。
+
+前基地影像（已被圈）：
+
+![2024-10-01 22_08_17-Clipboard.png](https://s2.loli.net/2024/10/01/QaG5Lh4ZUKY3EHC.png)
+
+## lllllliuzeyuan派
+
+成员：lllllliuzeyuan、himyyds
+
+在zuogeren的帮助下发展，并且zuogeren为基地帮助了圈地。
+
+基地影像：
+
+![2024-10-01 22_14_35-Clipboard.png](https://s2.loli.net/2024/10/01/cg2xAwE74jdv9n8.png)
