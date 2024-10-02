@@ -2,8 +2,6 @@
 
 本页面收录服务器的知名典故。
 
-[TOC]
-
 ## 腐竹官方认证传奇人物
 
 ![image.png](https://s2.loli.net/2024/10/02/Ewl9FZU1NpcSGXu.png)
