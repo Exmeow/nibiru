@@ -9,3 +9,5 @@
 ## 导航
 
 [服务器阵营](factions)
+
+[服务器知名典故](servers_famous_anecdotes)
