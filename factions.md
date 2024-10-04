@@ -22,6 +22,8 @@
 
 hghgjk精通生电科技，并且经常建造与启动巨大规模的生电机器，导致服务器TPS严重下降。
 
+2024年10月4日，hghgjk发生了技术爆炸，大量zuogeren派的科技被其掌握。
+
 基地影像：
 
 ![362D31D72B1FA940E902A2E58EC1DB4A.png](https://s2.loli.net/2024/10/01/jta7GR3yMv61PIs.png)
