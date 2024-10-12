@@ -56,6 +56,14 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 ![image.jpg](https://s2.loli.net/2024/10/02/V6k4CaEIPFD17Zr.jpg)
 
+### 脑干切除术
+
+![image](https://s2.loli.net/2024/10/12/KA2o8vF9yqItpx7.png)
+
+### 400x400得4000
+
+![image](https://s2.loli.net/2024/10/12/gCXqLTHvfe5N1SU.png)
+
 ## hghgjk传奇
 
 hghgjk在4周目中后期加入服务器，自从进入服务器就被腐竹注意，被给与[比亚迪]称号和暂时的速度效果。hghgjk在4,5,6,6.5,8,10,11周目都游玩了大量时间，可能是服务器游玩最久的人。此外hghgjk喜欢宣传服务器，刚开始发在了B站，却没人看，于是hghgjk采取了极端手段，可是被人开盒威胁。在10周目时hghgjk发了mcbbs和mcmod的宣传服务器帖子，戏剧性的是，腐竹的mcmod宣传帖并没有通过，hghgjk的却通过了。
@@ -106,7 +114,9 @@ Java_man在一周目曾跟随zuogeren，然而一次Java_man被一个玩家杀�
 
 十周目：冒险周目，有天灾、怪物加强、怪物战利品增加、僵尸村民掉附魔金苹果。
 
-十一周目：当前周目，有领地、TPA，有三体人。
+十一周目：Fabric核心周目，有领地、TPA，有三体人。
+
+十二周目：当前周目。
 
 ## 三体科技
 
