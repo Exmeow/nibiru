@@ -64,6 +64,20 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 ![image](https://s2.loli.net/2024/10/12/gCXqLTHvfe5N1SU.png)
 
+### 给zuogeren打视频电话
+
+![image](https://s2.loli.net/2024/10/12/okuejTnFMsyQNIW.png)
+
+### 被zuogeren等人关在末地戏耍
+
+日期：2024年10月4日
+
+![image.png](https://s2.loli.net/2024/10/12/OmWef6NX9vZCtz3.png)
+
+![image.png](https://s2.loli.net/2024/10/12/EVvMat36qBIGQzZ.png)
+
+![image.png](https://s2.loli.net/2024/10/12/APQRTIEqi9XstVy.png)
+
 ## hghgjk传奇
 
 hghgjk在4周目中后期加入服务器，自从进入服务器就被腐竹注意，被给与[比亚迪]称号和暂时的速度效果。hghgjk在4,5,6,6.5,8,10,11周目都游玩了大量时间，可能是服务器游玩最久的人。此外hghgjk喜欢宣传服务器，刚开始发在了B站，却没人看，于是hghgjk采取了极端手段，可是被人开盒威胁。在10周目时hghgjk发了mcbbs和mcmod的宣传服务器帖子，戏剧性的是，腐竹的mcmod宣传帖并没有通过，hghgjk的却通过了。
