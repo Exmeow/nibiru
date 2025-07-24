@@ -68,6 +68,10 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 ![image](https://s2.loli.net/2024/10/12/okuejTnFMsyQNIW.png)
 
+### 郑州省
+
+![image](https://s2.loli.net/2025/07/24/r6qcSVYnoZixfKu.png)
+
 ### 被zuogeren等人关在末地戏耍
 
 日期：2024年10月4日
