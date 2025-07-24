@@ -6,13 +6,13 @@
 
 ## 服务器地址
 
-广州联通：frp-hen.com:48010
-浙江电信：frp-fog.com:60546
-重庆电信：frp-fox.com:57164
-长沙电信：frp-gym.com:20680
-合肥电信：frp-bag.com:43199
-宿迁电信：frp-all.com:65214
-济南联通：frp-mom.com:33131
+广州联通：frp-hen.com:48010<br>
+浙江电信：frp-fog.com:60546<br>
+重庆电信：frp-fox.com:57164<br>
+长沙电信：frp-gym.com:20680<br>
+合肥电信：frp-bag.com:43199<br>
+宿迁电信：frp-all.com:65214<br>
+济南联通：frp-mom.com:33131<br>
 广东电信：frp-lab.com:25821
 
 ## 插件列表
