@@ -85,7 +85,7 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 ### UI还钱记
 
-**事情的起因，xiaoUI在群内发了一张和他人聊天记录的截图。**
+**2025年7月21日，xiaoUI在群内发了一张和他人聊天记录的截图。**
 
 ![image](https://i.jpg.dog/b1628dd6e748b94184dba4dcaee5bb54.png)
 
