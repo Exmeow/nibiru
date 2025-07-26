@@ -121,6 +121,10 @@ xiaoUI用借来的钱买了其他东西。
 
 ![image](images/ui21.png)
 
+*应该这辈子都还不完.png*
+
+![image](images/ui22.png)
+
 *截止至2025年7月26日仍未还清*
 
 ### AI领域大神
