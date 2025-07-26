@@ -1,3 +1,6 @@
+* toc
+{:toc}
+
 # 十四周目指南
 
 服务器核心：Minecraft 1.21.4 Folia
