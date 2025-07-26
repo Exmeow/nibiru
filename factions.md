@@ -15,7 +15,7 @@
 
 基地影像：
 
-![2024-09-28-12-51-40-Clipboard.png](https://s2.loli.net/2024/10/01/ezrgGpZch8y5IRO.png)
+![2024-09-28-12-51-40-Clipboard.png](zuogerenbase.png)
 
 ## hghgjk派
 
@@ -29,7 +29,7 @@ hghgjk精通生电科技，并且经常建造与启动巨大规模的生电机�
 
 基地影像：
 
-![362D31D72B1FA940E902A2E58EC1DB4A.png](https://s2.loli.net/2024/10/01/jta7GR3yMv61PIs.png)
+![362D31D72B1FA940E902A2E58EC1DB4A.png](hghgjkbase.png)
 
 ## BANIJJ派
 
@@ -39,7 +39,7 @@ MuneRaul在基地被圈后一段时间投奔了BANIJJ。
 
 基地影像：
 
-![2024-10-01 22_00_52-Clipboard.png](https://s2.loli.net/2024/10/01/bw5Atnak3RpUY1j.png)
+![2024-10-01 22_00_52-Clipboard.png](banijjbase.png)
 
 ## xiaoUI派
 
@@ -61,7 +61,7 @@ hite404因为后期没有破坏行为，没有被继续追杀。
 
 前基地影像（已被圈）：
 
-![2024-10-01 22_08_17-Clipboard.png](https://s2.loli.net/2024/10/01/QaG5Lh4ZUKY3EHC.png)
+![2024-10-01 22_08_17-Clipboard.png](muneraulbase.png)
 
 ## lllllliuzeyuan派
 
@@ -71,4 +71,4 @@ hite404因为后期没有破坏行为，没有被继续追杀。
 
 基地影像：
 
-![2024-10-01 22_14_35-Clipboard.png](https://s2.loli.net/2024/10/01/cg2xAwE74jdv9n8.png)
+![2024-10-01 22_14_35-Clipboard.png](lllllliuzeyuanbase.png)

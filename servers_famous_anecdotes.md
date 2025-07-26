@@ -7,7 +7,7 @@
 
 ## 腐竹官方认证传奇人物
 
-![image.png](https://s2.loli.net/2024/10/02/Ewl9FZU1NpcSGXu.png)
+![image.png](fuzhu.png)
 
 ## hghgjk与Caz1xcany的恨仇
 
@@ -21,19 +21,19 @@
 
 结果：Caz1xcany再也没有来过服务器，在群里也很少发言（发言都是在抱怨hghgjk），但大概率不是hghgjk的原因。
 
-![image.png](https://s2.loli.net/2024/10/02/hDMEKzwcTn4tir3.png)
+![image.png](caz.png)
 
 ## Jane
 
 Jane（简）是来自外国的14岁女性中国留学生，身份神秘。自从Jane来到服务器，就在hghgjk家的山坡上建泥土小人，后来围着hghgjk造十字架，十字架上的告示牌写着诅咒的话语。
 
-![image.jpg](https://s2.loli.net/2024/10/02/wZbotALBep8vs1K.jpg)
+![image.jpg](jane.jpg)
 
-![image.png](https://s2.loli.net/2024/10/02/1n3LVQRledEtcFD.png)
+![image.png](jane2.png)
 
 ## “不玩了”“那今天尼比鲁关服”
 
-![image.jpg](https://s2.loli.net/2024/10/02/F8VCzGhWfrQuDO2.jpg)
+![image.jpg](bwl.jpg)
 
 （Kelvin=腐竹，布尔什维克1992=elon2008，lolo=hghgjk，□↓↓↑=Caz1xcany）
 
@@ -41,13 +41,13 @@ Jane（简）是来自外国的14岁女性中国留学生，身份神秘。自�
 
 此后，“不玩了”“那今天尼比鲁关服”遂成为尼比鲁名梗。
 
-![image.jpg](https://s2.loli.net/2024/10/02/vl5Ahkp8VsB1RFz.jpg)
+![image.jpg](bwl2.jpg)
 
 ## xiaoUI传奇
 
 xiaoUI在3周目时为非作歹，无恶不作，但是被zuogeren制裁（详情未知）。
 
-![image.png](https://s2.loli.net/2024/10/02/3unLOj9NEQoPxaT.png)
+![image.png](ui.png)
 
 xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但很显然这对于服务器多数玩家来说并不是一个好消息。初来乍到，xiaoUI并不敢做坏事，但hghgjk打算给xiaoUI来个下马威，在xiaoUI说出自己的坐标后，hghgjk借着帮助xiaoUI的名义，带着大量附魔金苹果去制裁xiaoUI。来到xiaoUI的坐标处后，hghgjk慢慢接近xiaoUI，突然hghgjk用手中的武器直直地砍向xiaoUI，xiaoUI在受惊后快速退出游戏，此时xiaoUI小号上线在出生点让hghgjk以为他用了什么手段回到出生点（没分清大号小号），导致这次制裁失败。xiaoUI嚣张地认为hghgjk不过如此，再次说出了自己的坐标。这次hghgjk不敢怠慢，快速飞去了那个坐标处，xiaoUI再次被抓住，可他再次退出服务器。hghgjk把xiaoUI下线的地方用黑曜石围了起来，在里面放满了岩浆，此时xiaoUI小号上线，hghgjk在聊天框发了：“w zuogeren 不堵他了，懒得守了，我先走了。”以骗xiaoUI上线。xiaoUI果然中计，在xiaoUI上线的一瞬间就被hghgjk击杀，于是xiaoUI被拿下一血。可xiaoUI死性不改，在与MuneRaul势力联合时背刺了MuneRaul和Java21。
 
@@ -57,69 +57,69 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 腐竹评价：
 
-![image.jpg](https://s2.loli.net/2024/10/02/V6k4CaEIPFD17Zr.jpg)
+![image.jpg](ui2.jpg)
 
 ### 脑干切除术
 
-![image](https://s2.loli.net/2024/10/12/KA2o8vF9yqItpx7.png)
+![image](ui3.png)
 
 ### 400x400得4000
 
-![image](https://s2.loli.net/2024/10/12/gCXqLTHvfe5N1SU.png)
+![image](ui4.png)
 
 ### 给zuogeren打视频电话
 
-![image](https://s2.loli.net/2024/10/12/okuejTnFMsyQNIW.png)
+![image](ui5.png)
 
 ### 郑州省
 
-![image](https://s2.loli.net/2025/07/24/r6qcSVYnoZixfKu.png)
+![image](ui6.png)
 
-![image.png](https://s2.loli.net/2025/07/26/J5LXdNuEYWZoSs9.png)
+![image.png](ui7.png)
 
 ### 被zuogeren等人关在末地戏耍
 
 日期：2024年10月4日
 
-![image.png](https://s2.loli.net/2024/10/12/OmWef6NX9vZCtz3.png)
+![image.png](ui8.png)
 
-![image.png](https://s2.loli.net/2024/10/12/EVvMat36qBIGQzZ.png)
+![image.png](ui9.png)
 
-![image.png](https://s2.loli.net/2024/10/12/APQRTIEqi9XstVy.png)
+![image.png](ui10.png)
 
 ### UI还钱记
 
 **2025年7月21日，xiaoUI在群内发了一张和他人聊天记录的截图。**
 
-![image](https://i.jpg.dog/b1628dd6e748b94184dba4dcaee5bb54.png)
+![image](ui11.png)
 
 在之后xiaoUI发的聊天记录里，还钱时间一拖再拖，最后也只还了一毛钱。
 
-![image](https://i.jpg.dog/ff7e1bf60f2ef156a39c93420c0286eb.png)
+![image](ui12.png)
 
-![image](https://i.jpg.dog/3b0e6b3a644acd4130fc54602718c551.png)
+![image](ui13.png)
 
 后面甚至提出了如果欠钱就直接拉黑的操作。
 
-![image](https://i.jpg.dog/13f6c974bb1098837e5f59104d0da912.png)
+![image](ui14.png)
 
-![image](https://i.jpg.dog/6e1e7184539971494f1db3d1b0467a8c.png)
+![image](ui15.png)
 
-![image](https://i.jpg.dog/cb0bb1b106c3f18e0aae4206c16a30fd.png)
+![image](ui16.png)
 
-![image](https://i.jpg.dog/1f989209ec22786fab970d47dea92244.png)
+![image](ui17.png)
 
 xiaoUI用借来的钱买了其他东西。
 
-![image](https://i.jpg.dog/068331e0d258466906d9a7f289341204.png)
+![image](ui18.png)
 
-![image](https://i.jpg.dog/51d9bb49b7773a716e6ac261a0506bcd.png)
+![image](ui19.png)
 
 吃面给不起钱。
 
-![image](https://i.jpg.dog/c4590cfd6562daf1741868c73beb9c0b.png)
+![image](ui20.png)
 
-![image](https://i.jpg.dog/6d2abeec591b924a84b4139430beadc2.png)
+![image](ui21.png)
 
 ### AI领域大神
 
@@ -139,7 +139,7 @@ zuogeren是服务器除腐竹外第一神秘的玩家，掌握服务器大量漏
 
 ## guaidao传奇
 
-![image.png](https://s2.loli.net/2024/10/02/H1nPFXBaJsCMiAY.png)
+![image.png](guaidao.png)
 
 （guadiao为对其的戏称）
 

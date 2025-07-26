@@ -17,7 +17,7 @@
 
 hite404加入之后，xiaoUI建立了第一个基地 (下图) (被炸后)
 
-![基地残骸](https://s2.loli.net/2024/10/01/qQaJySNT8fYrcZU.png)
+![基地残骸](uibase.png)
 
 但在不久之后，基地就在某午夜被zuogeren用特殊方法炸掉了所有箱子和盒子
 
@@ -33,11 +33,11 @@ hite404上线看到后，立马又开始建造一个防爆基地
 
 由于zuogeren炸掉了xiaoUI装有黑曜石的盒子，所以xiaoUI只好手挖黑曜石, 他对此表示不满
 
-![基地结构图](https://s2.loli.net/2024/10/01/7E51seTy2KIrJCY.png)
+![基地结构图](uibase2.png)
 
 基地建成后, 在一段时间内是主要的基地
 
-![基地图](https://s2.loli.net/2024/10/01/gQ8tC1s6c3Lpkfz.png)
+![基地图](uibase3.png)
 
 在[新的基地](#基地三-hite404)建成后, 这里就主要用作放重要物资了
 
@@ -47,12 +47,12 @@ hite404上线看到后，立马又开始建造一个防爆基地
 
 基地预览图 (火把真整齐)
 
-![hite404的基地](https://s2.loli.net/2024/10/01/grelxOVuBYFk3y4.png)
+![hite404的基地](uibase4.png)
 
 村民交易所 (图书管理员大多是偷来的)
 
-![村民交易所](https://s2.loli.net/2024/10/01/lXJFd4M71nADgOK.png)
+![村民交易所](uibase5.png)
 
 刷线机 (50w/h+)
 
-![50w/h+刷线机](https://s2.loli.net/2024/10/01/dBoE8rktbsZFwcj.png)
+![50w/h+刷线机](uibase6.png)
