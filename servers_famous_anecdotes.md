@@ -83,6 +83,44 @@ xiaoUI在10周目前中期被zuogeren和hghgjk重新拉入新服务器群，但�
 
 ![image.png](https://s2.loli.net/2024/10/12/APQRTIEqi9XstVy.png)
 
+### UI还钱记
+
+**事情的起因，xiaoUI在群内发了一张和他人聊天记录的截图。**
+
+![image](https://i.jpg.dog/b1628dd6e748b94184dba4dcaee5bb54.png)
+
+在之后xiaoUI发的聊天记录里，还钱时间一拖再拖，最后也只还了一毛钱。
+
+![image](https://i.jpg.dog/ff7e1bf60f2ef156a39c93420c0286eb.png)
+
+![image](https://i.jpg.dog/3b0e6b3a644acd4130fc54602718c551.png)
+
+后面甚至提出了如果欠钱就直接拉黑的操作。
+
+![image](https://i.jpg.dog/13f6c974bb1098837e5f59104d0da912.png)
+
+![image](https://i.jpg.dog/6e1e7184539971494f1db3d1b0467a8c.png)
+
+![image](https://i.jpg.dog/cb0bb1b106c3f18e0aae4206c16a30fd.png)
+
+![image](https://i.jpg.dog/1f989209ec22786fab970d47dea92244.png)
+
+xiaoUI用借来的钱买了其他东西。
+
+![image](https://i.jpg.dog/068331e0d258466906d9a7f289341204.png)
+
+![image](https://i.jpg.dog/51d9bb49b7773a716e6ac261a0506bcd.png)
+
+吃面给不起钱。
+
+![image](https://i.jpg.dog/c4590cfd6562daf1741868c73beb9c0b.png)
+
+![image](https://i.jpg.dog/6d2abeec591b924a84b4139430beadc2.png)
+
+### AI领域大神
+
+主条目：[AI领域大神](AI)
+
 ## hghgjk传奇
 
 hghgjk在4周目中后期加入服务器，自从进入服务器就被腐竹注意，被给与[比亚迪]称号和暂时的速度效果。hghgjk在4,5,6,6.5,8,10,11周目都游玩了大量时间，可能是服务器游玩最久的人。此外hghgjk喜欢宣传服务器，刚开始发在了B站，却没人看，于是hghgjk采取了极端手段，可是被人开盒威胁。在10周目时hghgjk发了mcbbs和mcmod的宣传服务器帖子，戏剧性的是，腐竹的mcmod宣传帖并没有通过，hghgjk的却通过了。
