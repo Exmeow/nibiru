@@ -12,6 +12,8 @@
 
 [服务器知名典故](servers_famous_anecdotes)
 
+[唐氏言论大赏](tang)
+
 ### 过去的周目
 
 #### 十三周目
