@@ -3,7 +3,7 @@
 
 # xiaoUI的AI写作
 
-> **<font color="red">包含大量虚假不实内容，请勿当真！</font>**
+> **<font color="red">本页面包含大量虚假不实内容，请勿当真！</font>**
 
 ## 7月24日作
 
