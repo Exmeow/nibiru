@@ -5,7 +5,7 @@
 
 服务器核心：Minecraft 1.21.4 Folia
 
-没有正版验证，有反作弊。
+没有正版验证。
 
 ## 服务器地址
 
@@ -28,7 +28,9 @@ Chunky 可以为你快速且安全地预生成区块
 
 Dominion 领地系统
 
-GrimAC 反作弊
+~~GrimAC 反作弊~~（已移除）
+
+CoreProtect 一款强大的服务器保护插件
 
 LuckPerms 服务器权限插件
 
