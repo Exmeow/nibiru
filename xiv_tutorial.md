@@ -3,7 +3,7 @@
 
 # 十四周目指南
 
-服务器核心：Minecraft 1.21.4 Folia
+服务器核心：Minecraft 1.21.6 Folia
 
 没有正版验证。
 
