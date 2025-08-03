@@ -28,6 +28,8 @@ Chunky 可以为你快速且安全地预生成区块
 
 Dominion 领地系统
 
+GSit 让你随时随地可以坐下
+
 ~~GrimAC 反作弊~~（已移除）
 
 CoreProtect 一款强大的服务器保护插件
