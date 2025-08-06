@@ -73,7 +73,7 @@ ViaVersion 多平台的服务器插件
 示例:/login 0123456 或 /l 0123456
 ```
 
-### CoreProtect
+## CoreProtect
 
 > 查询方块放置/破坏和容器存入取出记录。
 
@@ -81,6 +81,6 @@ ViaVersion 多平台的服务器插件
 /co i
 ```
 
-### 领地
+## 领地
 
 使用领地需要找腐竹获取权限，使用方法请查看[官方文档](https://dominion.lunadeer.cn/notes/doc/player/)。
