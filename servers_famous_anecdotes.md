@@ -136,11 +136,9 @@ xiaoUI用借来的钱买了其他东西。
 <details>
 <summary>聊天记录中的截图</summary>
 
-![image](images/ui25.png)
-
-![image](images/ui26.png)
-
-![image](images/ui27.png)
+<img src="/images/ui25.png" alt="image">
+<img src="/images/ui26.png" alt="image">
+<img src="/images/ui27.png" alt="image">
 
 </details>
 
