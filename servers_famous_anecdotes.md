@@ -129,7 +129,21 @@ xiaoUI用借来的钱买了其他东西。
 
 ![image](images/ui23.png)
 
-*截止至2025年8月2日仍未还清*
+2025年8月18日更新
+
+![image](images/ui24.png)
+
+<details> <summary>聊天记录中的截图</summary>
+
+![image](images/ui25.png)
+
+![image](images/ui26.png)
+
+![image](images/ui27.png)
+
+</details>
+
+*截止至2025年8月18日仍未还清*
 
 ### xiaoUI认Java_man为母亲
 
