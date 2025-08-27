@@ -110,6 +110,6 @@ xiaoUI用借来的钱买了其他东西。
 
 主条目：[AI领域大神](AI)
 
-## UI性骚扰同班同学
+## UI性骚扰同学
 
 ![image](images/ui28.jpg)
