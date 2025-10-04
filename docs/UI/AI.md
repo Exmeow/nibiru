@@ -1,6 +1,3 @@
-* toc
-{:toc}
-
 # xiaoUI的AI写作
 
 > **<font color="red">本页面包含大量虚假不实内容，请勿当真！</font>**

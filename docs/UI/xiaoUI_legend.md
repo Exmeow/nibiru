@@ -1,6 +1,3 @@
-* toc
-{:toc}
-
 # xiaoUI传奇
 
 xiaoUI在3周目时为非作歹，无恶不作，但是被zuogeren制裁（详情未知）。
@@ -94,9 +91,9 @@ xiaoUI用借来的钱买了其他东西。
 <details>
 <summary>聊天记录中的截图</summary>
 
-<img src="/images/ui25.png" alt="image">
-<img src="/images/ui26.png" alt="image">
-<img src="/images/ui27.png" alt="image">
+<img src="images/ui25.png" alt="image">
+<img src="images/ui26.png" alt="image">
+<img src="images/ui27.png" alt="image">
 
 </details>
 
@@ -108,7 +105,7 @@ xiaoUI用借来的钱买了其他东西。
 
 ## AI领域大神
 
-主条目：[AI领域大神](AI)
+主条目：[AI领域大神](AI.md)
 
 ## UI性骚扰同学
 

@@ -1,6 +1,3 @@
-* toc
-{:toc}
-
 # 服务器知名典故
 
 本页面收录服务器的知名典故。
@@ -45,11 +42,11 @@ Jane（简）是来自外国的14岁女性中国留学生，身份神秘。自�
 
 ## xiaoUI传奇
 
-主条目：[xiaoUI传奇](xiaoUI_legend)
+主条目：[xiaoUI传奇](UI/xiaoUI_legend.md)
 
 ## 唐氏言论大赏
 
-主条目：[唐氏言论大赏](tang)
+主条目：[唐氏言论大赏](tang.md)
 
 ## hghgjk传奇
 

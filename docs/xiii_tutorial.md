@@ -1,6 +1,3 @@
-* toc
-{:toc}
-
 # 十三周目指南
 
 游戏版本：Minecraft LeavesMC 1.21.1

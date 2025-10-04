@@ -1,6 +1,3 @@
-* toc
-{:toc}
-
 # 十四周目指南
 
 服务器核心：Minecraft 1.21.8 Luminol
@@ -9,13 +6,13 @@
 
 ## 服务器地址
 
-广州联通：frp-hen.com:48010<br>
-浙江电信：frp-fog.com:60546<br>
-重庆电信：frp-fox.com:57164<br>
-长沙电信：frp-gym.com:20680<br>
-合肥电信：frp-bag.com:43199<br>
-宿迁电信：frp-all.com:65214<br>
-济南联通：frp-mom.com:33131<br>
+广州联通：frp-hen.com:48010  
+浙江电信：frp-fog.com:60546  
+重庆电信：frp-fox.com:57164  
+长沙电信：frp-gym.com:20680  
+合肥电信：frp-bag.com:43199  
+宿迁电信：frp-all.com:65214  
+济南联通：frp-mom.com:33131  
 广东电信：frp-lab.com:25821
 
 ## 更新日志
@@ -70,7 +67,7 @@ ViaVersion 多平台的服务器插件
 ```
 
 ```
-示例:/login 0123456 或 /l 0123456
+示例: /login 0123456 或 /l 0123456
 ```
 
 ## CoreProtect
@@ -83,4 +80,4 @@ ViaVersion 多平台的服务器插件
 
 ## 领地
 
-使用领地需要找腐竹获取权限，使用方法请查看[官方文档](https://dominion.lunadeer.cn/notes/doc/player/)。
+使用领地需要找腐竹获取权限，使用方法请查看 [官方文档](https://dominion.lunadeer.cn/notes/doc/player/)。
