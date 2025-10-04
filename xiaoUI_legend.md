@@ -113,3 +113,11 @@ xiaoUI用借来的钱买了其他东西。
 ## UI性骚扰同学
 
 ![image](images/ui28.jpg)
+
+## UI婚恋观
+
+![1](images/ui29.png)
+
+![对彩礼](images/ui30.png)
+
+![对处女](images/ui31.png)
