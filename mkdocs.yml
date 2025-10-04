@@ -1,0 +1,28 @@
+site_name: 尼比鲁 - 十四周目
+repo_url: https://github.com/Exmeow/nibiru
+repo_name: Exmeow/nibiru
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+  favicon: images/favicon.ico
+  logo: images/logo.webp
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+extra:
+  social:
+    - icon: material/qqchat
+      link: https://qm.qq.com/q/o8iA8TRpiS
+    - icon: material/minecraft
+      link: https://play.mcmod.cn/sv20188115.html
+    - icon: material/chart-line
+      link: https://nbl.etaris.moe/server/1

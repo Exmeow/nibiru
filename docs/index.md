@@ -8,24 +8,24 @@
 
 ## 导航
 
-[十四周目指南](docs/xiv_tutorial.md)
+[十四周目指南](xiv_tutorial.md)
 
-[服务器知名典故](docs/servers_famous_anecdotes.md)
+[服务器知名典故](servers_famous_anecdotes.md)
 
-[唐氏言论大赏](docs/tang.md)
+[唐氏言论大赏](tang.md)
 
 ### 过去的周目
 
 #### 十三周目
 
-[十三周目指南](docs/xiii_tutorial.md)
+[十三周目指南](xiii_tutorial.md)
 
 #### 十二周目
 
-[十二周目指南](docs/xii_tutorial.md)
+[十二周目指南](xii_tutorial.md)
 
 #### 十一周目
 
-[服务器阵营](docs/factions.md)
+[服务器阵营](factions.md)
 
-[十一周目典故](docs/xi_anecdotes.md)
+[十一周目典故](xi_anecdotes.md)
