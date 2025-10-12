@@ -159,16 +159,16 @@ Java_man二创大赛一开始是zuogeren大赛，只是为了让zuogeren回复el
 
 <details>
 <summary>言论截图</summary>
-<img src="images/elon2008.png" alt="image">
+<img src="/images/elon2008.png" alt="image">
 
 倒反天罡
 
-<img src="images/elon20081.png" alt="image">
-<img src="images/elon20082.png" alt="image">
-<img src="images/elon20084.png" alt="image">
+<img src="/images/elon20081.png" alt="image">
+<img src="/images/elon20082.png" alt="image">
+<img src="/images/elon20084.png" alt="image">
 
 左右脑互搏
 
-<img src="images/elon20083.png" alt="image">
-<img src="images/elon20085.png" alt="image">
+<img src="/images/elon20083.png" alt="image">
+<img src="/images/elon20085.png" alt="image">
 </details>
