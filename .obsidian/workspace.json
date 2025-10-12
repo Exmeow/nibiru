@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "90bea7fe4383743c",
+    "type": "split",
+    "children": [
+      {
+        "id": "26a1e708979e0936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c09cb7861c9ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/UI/xiaoUI_legend.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "xiaoUI_legend"
+            }
+          },
+          {
+            "id": "fab88e3532914fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/servers_famous_anecdotes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "servers_famous_anecdotes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0b299532af77311",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afbf8762df3e87b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a43ea881c536f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "72d51d81f9f33e83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b73b5251bdde1f41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63ff57bfc952b7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "478fa7452e033200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12bba120cddaa45e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/servers_famous_anecdotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "servers_famous_anecdotes 的反向链接列表"
+            }
+          },
+          {
+            "id": "b2539562a4bf8bba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/servers_famous_anecdotes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "servers_famous_anecdotes 的出链列表"
+            }
+          },
+          {
+            "id": "16ad72ec5301f85e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "20f7d837dfbd587f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/servers_famous_anecdotes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "servers_famous_anecdotes 的大纲"
+            }
+          },
+          {
+            "id": "63e3b5b19df9e807",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "fab88e3532914fdb",
+  "lastOpenFiles": [
+    "docs/UI/xiaoUI_legend.md",
+    "docs/servers_famous_anecdotes.md",
+    "images/elon20082.md",
+    "images",
+    "images/elon2008.md",
+    "docs/images/elon20084.png",
+    "docs/images/elon20085.png",
+    "docs/images/elon20083.png",
+    "docs/images/elon20082.png",
+    "docs/images/elon20081.png",
+    "docs/images/elon2008.png",
+    "docs/tang.md"
+  ]
+}

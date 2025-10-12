@@ -148,3 +148,23 @@ Alan和elon2008相遇后，决定共同生存，为此前往了腐竹为Alan钦�
 ## 一品良民
 
 elon2008测试挂端爆破密码功能爆破腐竹游戏账号密码，被腐竹发现并冠以“一品良民”称号。
+
+### Java_man二创大赛
+
+Java_man二创大赛一开始是zuogeren大赛，只是为了让zuogeren回复elon2008和alan的消息，但是zuogeren提出了若继续举办则按投稿次数来延长zuogeren对elon2008和alan不做回复的时间，在之后Java_man看到后主动提出改为Java_man为主角的Java_man二创大赛。
+
+#### 传奇主办方elon2008
+
+之后elon2008在2025年8月6日紧急修改并发布了Java_man二创大赛的投稿要求、参赛奖品、评分标准以及评分过程，截止时间为2025年9月1日23时59分59秒，在比赛截止之后elon2008对于比赛评分一拖再拖，直到2025年10月12日也没有完成评分，即便hghgjk在这段时间内一直催，但是elon2008以各种借口来推迟，甚至还发表了一些诡异的言论。
+
+<details>
+<summary>言论截图</summary>
+<img src="images/elon2008.png" alt="image">
+
+<img src="images/elon20081.png" alt="image">
+<img src="images/elon20082.png" alt="image">
+<img src="images/elon20084.png" alt="image">
+
+<img src="images/elon20083.png" alt="image">
+<img src="images/elon20085.png" alt="image">
+</details>
