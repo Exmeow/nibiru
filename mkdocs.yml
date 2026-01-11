@@ -25,7 +25,7 @@ extra:
     - icon: material/minecraft
       link: https://play.mcmod.cn/sv20188115.html
     - icon: material/chart-line
-      link: https://nbl.etaris.moe/server/1
+      link: https://nbl.etaris.moe/server/12
 plugins:
   - macros
 extra_css:
