@@ -1,0 +1,85 @@
+@import url("https://cdn.jsdmirror.com/gh/Anyexyz/HarmonyOSHans@main/common.css");
+@import url("https://gstatic.aby.pub/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap");
+
+/* docs/stylesheets/extra.css */
+
+/* 引入类似宋体/明体的衬线字，更有历史感 */
+:root {
+  --md-text-font: "Inter", "HarmonyOS Sans SC", "Segoe UI", Arial, sans-serif;
+  --aot-bg-color: #f2eadd; /* 羊皮纸米色 */
+  --aot-border-color: #4a3b2a; /* 深褐色 */
+  --aot-text-color: #3e2723;
+}
+
+body,
+.md-typeset,
+.md-header,
+.md-nav,
+.md-search,
+.md-footer {
+  font-family: var(--md-text-font);
+}
+
+/* Hide left (primary) sidebar for a full-width layout */
+.md-sidebar--primary {
+  display: none;
+}
+
+@media (min-width: 76.25em) {
+  .md-main__inner {
+    margin-left: 0;
+    max-width: none;
+    padding-right: 1.5rem;
+  }
+
+  .md-sidebar--secondary {
+    margin-left: auto;
+  }
+}
+
+.aot-card {
+    background-color: var(--aot-bg-color);
+    border: 3px double var(--aot-border-color); /* 双线边框 */
+    color: var(--aot-text-color);
+    padding: 20px;
+    margin: 1.5em 0;
+    font-family: "Noto Serif SC", "Source Han Serif CN", "Songti SC", "SimSun", "Times New Roman", serif; /* 强制衬线体 */
+    position: relative;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* 左上角或顶部的“现在可以公开的情报” */
+.aot-header-label {
+    font-size: 0.85em;
+    font-weight: bold;
+    border-bottom: 1px solid var(--aot-border-color);
+    display: inline-block;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}
+
+/* 词条标题 */
+.aot-title {
+    font-size: 1.4em;
+    font-weight: 900;
+    margin-bottom: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* 中间的分隔线装饰 (可选) */
+.aot-separator {
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, var(--aot-border-color), transparent);
+    margin: 10px 0 15px 0;
+    opacity: 0.5;
+}
+
+/* 正文内容 */
+.aot-content {
+    font-size: 1em;
+    line-height: 1.8;
+    text-align: justify; /* 两端对齐更像印刷品 */
+}
