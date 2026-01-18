@@ -6,6 +6,8 @@
 
 服务器Q群号：**583952672**
 
+Q群入群口令（腐竹ID）：**Evolto_Azis**
+
 ## 尼比鲁大型文学剧集热映中！
 
 [点此查看](story/story.md){: .md-button }
